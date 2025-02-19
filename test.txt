@@ -1,1 +1,2 @@
 Test
+Ik heb een nieuwe contactformulier toegevoegd aan de webapplicatie.
